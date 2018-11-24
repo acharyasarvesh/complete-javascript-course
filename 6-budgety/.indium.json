@@ -1,0 +1,9 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+       "root": "",
+        "url" : "index.html"
+    }
+  ]
+}
